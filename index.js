@@ -4,7 +4,7 @@ const perguntas = [
         respostas: [
             "A) Bella Swan",
             "B) Alice Cullen",
-            "C) Rosalie Hale"
+            "C) Rosalie Hale" 
         ],
         correta: 0
     },
